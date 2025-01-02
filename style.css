@@ -48,11 +48,11 @@ body{
 
 
 #new-btn{
-    height: 4vmin;
-    width: 11vmin;
-    border-radius: 0.5rem;
-    font-size: 0.4rem;
-    background-color: rgb(120, 255, 120);
+    padding: 0.5rem;
+    font-size: 1.25rem;
+    background-color: #34ff30;
+    border-radius: 1rem;
+    border: none;
 }
 
 
