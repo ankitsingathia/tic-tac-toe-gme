@@ -32,9 +32,10 @@ body{
     width:18vmin;
     border-radius: 1rem;
     border: none;
-    box-shadow: 0 0 0.3rem black;
+    box-shadow: 0.1rem 0.2rem 0.1rem black;
     font-size: 8vmin;
     color:#F71735;
+    background-color: #ffffff;
 }
 
 #reset-button{
@@ -44,3 +45,29 @@ body{
     border-radius: 1rem;
     border: none;
 }
+
+
+#new-btn{
+    height: 4vmin;
+    width: 11vmin;
+    border-radius: 0.5rem;
+    font-size: 0.4rem;
+    background-color: rgb(120, 255, 120);
+}
+
+
+.msg{
+    font-size: 4min;
+    margin-top: 5vmin;
+}
+
+
+.hide{
+    display: none;
+}
+
+
+main {
+    margin-top: 20px;
+}
+
