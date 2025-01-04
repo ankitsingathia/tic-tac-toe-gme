@@ -79,8 +79,8 @@ boxes.forEach((box) => {
     });
 });
 
-// Add event listener to reset button
+// Adding event listener to reset button
 resetBtn.addEventListener("click", resetGame);
 
-// Add event listener to new game button
+// Adding event listener to new game button
 newgamebtn.addEventListener("click", resetGame);

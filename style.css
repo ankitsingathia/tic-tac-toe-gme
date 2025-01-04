@@ -71,3 +71,32 @@ main {
     margin-top: 20px;
 }
 
+/*footer here*/
+
+footer {
+    background-color: #282828;  /* Dark background for a modern look */
+    color: #ffcc00;  /* Golden yellow text for contrast */
+    text-align: center;
+    padding: 10px;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.5);
+}
+
+footer a {
+    color: #ffcc00;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer a:hover {
+    color: #ffffff;
+}
+
+footer .highlight {
+    color: #ff4d4d;  /* Bright red for Ankit Singathia */
+    font-weight: bold;
+}
