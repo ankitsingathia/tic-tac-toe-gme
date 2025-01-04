@@ -41,6 +41,7 @@ body{
 #reset-button{
     padding: 1rem;
     font-size: 1.25rem;
+    font-weight: 600;
     background-color: #FEB95F;
     border-radius: 1rem;
     border: none;
@@ -69,13 +70,14 @@ body{
 
 main {
     margin-top: 20px;
+    font-family: 'Trebuchet MS', sans-serif;
 }
 
 /*footer here*/
 
 footer {
-    background-color: #282828;  /* Dark background for a modern look */
-    color: #ffcc00;  /* Golden yellow text for contrast */
+    background-color: #282828; 
+    color: #ffcc00; 
     text-align: center;
     padding: 10px;
     font-family: 'Trebuchet MS', sans-serif;
@@ -97,6 +99,6 @@ footer a:hover {
 }
 
 footer .highlight {
-    color: #ff4d4d;  /* Bright red for Ankit Singathia */
+    color: #ff4d4d; 
     font-weight: bold;
 }
